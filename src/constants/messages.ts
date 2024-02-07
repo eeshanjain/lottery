@@ -1,0 +1,5 @@
+export const NO_TICKET_ID_ERROR = 'Please specify the ID of the ticket'
+export const LOTTERY_NOT_FOUND_ERROR = 'Lottery not found!'
+export const NO_LINE_COUNT_ERROR = 'Please provide the number of lines'
+export const INVALID_LINE_COUNT_ERROR = 'Please provide the number of lines as a number greater than 0'
+export const CANNOT_AMMEND_TICKET_ERROR = 'Cannot ammend ticket since status has been checked!'
