@@ -42,7 +42,7 @@ However, in production environment, we will definitely be using a dedicated DB i
 
 The ER Diagram is below
 
-![alt text](src\assets\er_diagram.png)
+![alt text](src/assets/er_diagram.png)
 
 It is a simple design, we have two tables:
 1. Lottery - to store the lottery information.
